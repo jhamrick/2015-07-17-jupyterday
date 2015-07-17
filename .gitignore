@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 .sconsign.dblite
 jupyterday-2015.slides.html
+jupyterhub.sqlite
+jupyterhub_cookie_secret
